@@ -13,7 +13,7 @@ Olá, Bem vindo ao meu projeto de portfólio.
 
 ## Feito por:
 
-### Joana Santos
+### Roberta Longoni
 
-### Linkedin: https://www.linkedin.com/school/aluracursos/
+### Linkedin: https://www.linkedin.com/in/robertta-longoni/
 
