@@ -65,6 +65,8 @@ body{
 .apresentacao__conteudo__texto{
     font-size: 1.5rem;
     font-family: 'Montserrat', sans-serif;
+    margin-top: 1em;
+    margin-bottom: 1em;
 }
 
 .apresentacao__links{
