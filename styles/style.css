@@ -53,6 +53,7 @@ body{
     height: 50%;
     display: flex;
     flex-direction: column;
+    margin: 1em;
     
 }
 .apresentacao__titulo{
